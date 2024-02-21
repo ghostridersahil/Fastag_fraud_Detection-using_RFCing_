@@ -4,7 +4,7 @@ Certainly! Below is a sample README file for your GitHub repository for the Fast
 
 # Fastag Fraud Detection Project
 
-![Fastag Fraud Detection](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fthegoanpanda%2Ffastag-fraud-detection-datesets-fictitious&psig=AOvVaw24c3C5DkxlPtET4Jti4uj8&ust=1708605978441000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDGhLW7vIQDFQAAAAAdAAAAABAI)
+![Fastag Fraud Detection](dataset-cover.jpg)
 
 ## Overview
 
