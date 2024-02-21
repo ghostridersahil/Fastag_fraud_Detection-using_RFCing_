@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your GitHub repository for the Fastag fraud detection project:
-
----
-
 # Fastag Fraud Detection Project
 
 ![Fastag Fraud Detection](dataset-cover.jpg)
