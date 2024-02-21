@@ -67,9 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Special thanks to [organization/person] for providing the dataset.
-- Inspired by [related project/link].
+- Special thanks to [Mentorness] for providing the dataset
 
 ---
 
-You should replace placeholders like `your-image-url.com`, `your-dataset-url.com`, `your-username`, etc., with actual URLs and information relevant to your project. Additionally, customize sections like "Features", "Contributors", "Acknowledgments", and "License" according to your project specifics.
